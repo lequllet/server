@@ -12,7 +12,7 @@
     "log4js": "^2.5.3",
     "md5": "^2.2.1",
     "mysql": "^2.15.0",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "timespan": "^2.3.0"
   },
   "devDependencies": {
